@@ -29,7 +29,7 @@ The dashboard was developed using the following tools and technologies:
 
 ![ShopVista Online Store Dashboard]([SHOPVISTA%20online%20store.png](https://github.com/SumitAnalytix/SHOPVISTA-online-store/blob/main/SHOPVISTA%20online%20store.png))
 
-## 5. Features / Highlights
+## 5. Features / Highlights](https://github.com/SumitAnalytix/SHOPVISTA-online-store/blob/main/SHOPVISTA%20online%20store.png)
 
 ### A. Business Problem
 
