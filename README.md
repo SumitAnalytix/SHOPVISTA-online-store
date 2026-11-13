@@ -27,9 +27,9 @@ The dashboard was developed using the following tools and technologies:
 
 ## 4. Dashboard Preview
 
-![ShopVista Online Store Dashboard]([SHOPVISTA%20online%20store.png](https://github.com/SumitAnalytix/SHOPVISTA-online-store/blob/main/SHOPVISTA%20online%20store.png))
+![ShopVista Online Store Dashboard]([SHOPVISTA%20online%20store.png](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png))
 
-## 5. Features / Highlights](https://github.com/SumitAnalytix/SHOPVISTA-online-store/blob/main/SHOPVISTA%20online%20store.png)
+## 5. Features / Highlights
 
 ### A. Business Problem
 
@@ -125,7 +125,7 @@ The ShopVista dashboard supports business decision-making in several ways:
 
 ### ShopVista – Online Store Dashboard
 
-![ShopVista Power BI Dashboard]([SHOPVISTA%20online%20store.png](https://github.com/SumitAnalytix/SHOPVISTA-online-store/blob/main/SHOPVISTA%20online%20store.png))
+![ShopVista Power BI Dashboard](SHOPVISTA%20online%20store.png)
 
 ## 7. Project Files
 
