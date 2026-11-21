@@ -27,7 +27,7 @@ The dashboard was developed using the following tools and technologies:
 
 ## 4. Dashboard Preview
 
-![ShopVista Online Store Dashboard]([SHOPVISTA%20online%20store.png](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png))
+![ShopVista Online Store Dashboard](SHOPVISTA%20online%20store.png)
 
 ## 5. Features / Highlights
 
